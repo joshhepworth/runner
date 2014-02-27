@@ -14,3 +14,9 @@ and adding:
 'runner':
   'rubyCommand': '/usr/bin/env ruby'
 ```
+
+## Todo
+
+1. Write tests
+2. Set defaults for commands for a few languages
+3. Detect filetype and pick appropriate command to run
