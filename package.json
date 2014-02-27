@@ -1,0 +1,15 @@
+{
+  "name": "runner",
+  "main": "./lib/runner",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Run a buffer through ruby and view stdout",
+  "activationEvents": ["runner:run"],
+  "repository": "https://github.com/joshhepworth/runner",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
